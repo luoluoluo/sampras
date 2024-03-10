@@ -1,0 +1,1205 @@
+[
+  {
+    "label": "拉萨市",
+    "value": "拉萨市",
+    "children": [
+      {
+        "label": "城关区",
+        "value": "城关区",
+        "children": [
+          { "label": "八廓街道", "value": "八廓街道" },
+          { "label": "吉日街道", "value": "吉日街道" },
+          { "label": "吉崩岗街道", "value": "吉崩岗街道" },
+          { "label": "扎细街道", "value": "扎细街道" },
+          { "label": "公德林街道", "value": "公德林街道" },
+          { "label": "嘎玛贡桑街道", "value": "嘎玛贡桑街道" },
+          { "label": "两岛街道", "value": "两岛街道" },
+          { "label": "金珠西路街道", "value": "金珠西路街道" },
+          { "label": "蔡公堂街道", "value": "蔡公堂街道" },
+          { "label": "夺底街道", "value": "夺底街道" },
+          { "label": "娘热街道", "value": "娘热街道" },
+          { "label": "纳金街道", "value": "纳金街道" }
+        ]
+      },
+      {
+        "label": "堆龙德庆区",
+        "value": "堆龙德庆区",
+        "children": [
+          { "label": "东嘎街道", "value": "东嘎街道" },
+          { "label": "乃琼街道", "value": "乃琼街道" },
+          { "label": "羊达街道", "value": "羊达街道" },
+          { "label": "柳梧街道", "value": "柳梧街道" },
+          { "label": "古荣镇", "value": "古荣镇" },
+          { "label": "马镇", "value": "马镇" },
+          { "label": "德庆镇", "value": "德庆镇" }
+        ]
+      },
+      {
+        "label": "达孜区",
+        "value": "达孜区",
+        "children": [
+          { "label": "德庆镇", "value": "德庆镇" },
+          { "label": "塔杰乡", "value": "塔杰乡" },
+          { "label": "章多乡", "value": "章多乡" },
+          { "label": "唐嘎乡", "value": "唐嘎乡" },
+          { "label": "雪乡", "value": "雪乡" },
+          { "label": "帮堆乡", "value": "帮堆乡" }
+        ]
+      },
+      {
+        "label": "林周县",
+        "value": "林周县",
+        "children": [
+          { "label": "甘丹曲果镇", "value": "甘丹曲果镇" },
+          { "label": "春堆乡", "value": "春堆乡" },
+          { "label": "松盘乡", "value": "松盘乡" },
+          { "label": "强嘎乡", "value": "强嘎乡" },
+          { "label": "卡孜乡", "value": "卡孜乡" },
+          { "label": "边交林乡", "value": "边交林乡" },
+          { "label": "江热夏乡", "value": "江热夏乡" },
+          { "label": "阿朗乡", "value": "阿朗乡" },
+          { "label": "唐古乡", "value": "唐古乡" },
+          { "label": "旁多乡", "value": "旁多乡" }
+        ]
+      },
+      {
+        "label": "当雄县",
+        "value": "当雄县",
+        "children": [
+          { "label": "当曲卡镇", "value": "当曲卡镇" },
+          { "label": "羊八井镇", "value": "羊八井镇" },
+          { "label": "格达乡", "value": "格达乡" },
+          { "label": "宁中乡", "value": "宁中乡" },
+          { "label": "公塘乡", "value": "公塘乡" },
+          { "label": "龙仁乡", "value": "龙仁乡" },
+          { "label": "乌玛塘乡", "value": "乌玛塘乡" },
+          { "label": "纳木湖乡", "value": "纳木湖乡" }
+        ]
+      },
+      {
+        "label": "尼木县",
+        "value": "尼木县",
+        "children": [
+          { "label": "塔荣镇", "value": "塔荣镇" },
+          { "label": "吞巴镇", "value": "吞巴镇" },
+          { "label": "麻江乡", "value": "麻江乡" },
+          { "label": "普松乡", "value": "普松乡" },
+          { "label": "卡如乡", "value": "卡如乡" },
+          { "label": "尼木乡", "value": "尼木乡" },
+          { "label": "续迈乡", "value": "续迈乡" },
+          { "label": "帕古乡", "value": "帕古乡" }
+        ]
+      },
+      {
+        "label": "曲水县",
+        "value": "曲水县",
+        "children": [
+          { "label": "曲水镇", "value": "曲水镇" },
+          { "label": "达嘎镇", "value": "达嘎镇" },
+          { "label": "才纳乡", "value": "才纳乡" },
+          { "label": "南木乡", "value": "南木乡" },
+          { "label": "聂当乡", "value": "聂当乡" },
+          { "label": "茶巴拉乡", "value": "茶巴拉乡" }
+        ]
+      },
+      {
+        "label": "墨竹工卡县",
+        "value": "墨竹工卡县",
+        "children": [
+          { "label": "工卡镇", "value": "工卡镇" },
+          { "label": "扎雪乡", "value": "扎雪乡" },
+          { "label": "门巴乡", "value": "门巴乡" },
+          { "label": "扎西岗乡", "value": "扎西岗乡" },
+          { "label": "日多乡", "value": "日多乡" },
+          { "label": "尼玛江热乡", "value": "尼玛江热乡" },
+          { "label": "甲玛乡", "value": "甲玛乡" },
+          { "label": "唐加乡", "value": "唐加乡" }
+        ]
+      },
+      {
+        "label": "格尔木藏青工业园区",
+        "value": "格尔木藏青工业园区",
+        "children": [{ "label": "藏青工业园乡", "value": "藏青工业园乡" }]
+      },
+      {
+        "label": "拉萨经济技术开发区",
+        "value": "拉萨经济技术开发区",
+        "children": [{ "label": "拉萨市经济技术开发区管委会", "value": "拉萨市经济技术开发区管委会" }]
+      },
+      {
+        "label": "西藏文化旅游创意园区",
+        "value": "西藏文化旅游创意园区",
+        "children": [{ "label": "西藏文化旅游创意园区", "value": "西藏文化旅游创意园区" }]
+      },
+      { "label": "达孜工业园区", "value": "达孜工业园区", "children": [{ "label": "达孜县工业园区", "value": "达孜县工业园区" }] }
+    ]
+  },
+  {
+    "label": "日喀则市",
+    "value": "日喀则市",
+    "children": [
+      {
+        "label": "桑珠孜区",
+        "value": "桑珠孜区",
+        "children": [
+          { "label": "城南街道", "value": "城南街道" },
+          { "label": "城北街道", "value": "城北街道" },
+          { "label": "城东街道", "value": "城东街道" },
+          { "label": "城西街道", "value": "城西街道" },
+          { "label": "曲布雄乡", "value": "曲布雄乡" },
+          { "label": "曲美乡", "value": "曲美乡" },
+          { "label": "聂日雄乡", "value": "聂日雄乡" },
+          { "label": "甲措雄乡", "value": "甲措雄乡" },
+          { "label": "纳尔乡", "value": "纳尔乡" },
+          { "label": "东嘎乡", "value": "东嘎乡" },
+          { "label": "边雄乡", "value": "边雄乡" },
+          { "label": "江当乡", "value": "江当乡" },
+          { "label": "年木乡", "value": "年木乡" },
+          { "label": "联乡", "value": "联乡" }
+        ]
+      },
+      {
+        "label": "南木林县",
+        "value": "南木林县",
+        "children": [
+          { "label": "南木林镇", "value": "南木林镇" },
+          { "label": "达那乡", "value": "达那乡" },
+          { "label": "卡孜乡", "value": "卡孜乡" },
+          { "label": "多角乡", "value": "多角乡" },
+          { "label": "秋木乡", "value": "秋木乡" },
+          { "label": "艾玛乡", "value": "艾玛乡" },
+          { "label": "土布加乡", "value": "土布加乡" },
+          { "label": "茶尔乡", "value": "茶尔乡" },
+          { "label": "索金乡", "value": "索金乡" },
+          { "label": "达孜乡", "value": "达孜乡" },
+          { "label": "奴玛乡", "value": "奴玛乡" },
+          { "label": "热当乡", "value": "热当乡" },
+          { "label": "拉布普乡", "value": "拉布普乡" },
+          { "label": "普当乡", "value": "普当乡" },
+          { "label": "仁堆乡", "value": "仁堆乡" },
+          { "label": "芒热乡", "value": "芒热乡" },
+          { "label": "甲措乡", "value": "甲措乡" }
+        ]
+      },
+      {
+        "label": "江孜县",
+        "value": "江孜县",
+        "children": [
+          { "label": "江孜镇", "value": "江孜镇" },
+          { "label": "纳如乡", "value": "纳如乡" },
+          { "label": "卡麦乡", "value": "卡麦乡" },
+          { "label": "卡堆乡", "value": "卡堆乡" },
+          { "label": "藏改乡", "value": "藏改乡" },
+          { "label": "日朗乡", "value": "日朗乡" },
+          { "label": "达孜乡", "value": "达孜乡" },
+          { "label": "热索乡", "value": "热索乡" },
+          { "label": "重孜乡", "value": "重孜乡" },
+          { "label": "龙马乡", "value": "龙马乡" },
+          { "label": "加克西乡", "value": "加克西乡" },
+          { "label": "紫金乡", "value": "紫金乡" },
+          { "label": "江热乡", "value": "江热乡" },
+          { "label": "年堆乡", "value": "年堆乡" },
+          { "label": "康卓乡", "value": "康卓乡" },
+          { "label": "金嘎乡", "value": "金嘎乡" },
+          { "label": "日星乡", "value": "日星乡" },
+          { "label": "车仁乡", "value": "车仁乡" },
+          { "label": "热龙乡", "value": "热龙乡" }
+        ]
+      },
+      {
+        "label": "定日县",
+        "value": "定日县",
+        "children": [
+          { "label": "协格尔镇", "value": "协格尔镇" },
+          { "label": "岗嘎镇", "value": "岗嘎镇" },
+          { "label": "扎西宗乡", "value": "扎西宗乡" },
+          { "label": "绒辖乡", "value": "绒辖乡" },
+          { "label": "曲当乡", "value": "曲当乡" },
+          { "label": "措果乡", "value": "措果乡" },
+          { "label": "曲洛乡", "value": "曲洛乡" },
+          { "label": "长所乡", "value": "长所乡" },
+          { "label": "尼辖乡", "value": "尼辖乡" },
+          { "label": "扎果乡", "value": "扎果乡" },
+          { "label": "克玛乡", "value": "克玛乡" },
+          { "label": "盆吉乡", "value": "盆吉乡" },
+          { "label": "加措乡", "value": "加措乡" }
+        ]
+      },
+      {
+        "label": "萨迦县",
+        "value": "萨迦县",
+        "children": [
+          { "label": "萨迦镇", "value": "萨迦镇" },
+          { "label": "吉定镇", "value": "吉定镇" },
+          { "label": "雄麦乡", "value": "雄麦乡" },
+          { "label": "麻布加乡", "value": "麻布加乡" },
+          { "label": "雄玛乡", "value": "雄玛乡" },
+          { "label": "扎西岗乡", "value": "扎西岗乡" },
+          { "label": "扯休乡", "value": "扯休乡" },
+          { "label": "赛乡", "value": "赛乡" },
+          { "label": "拉洛乡", "value": "拉洛乡" },
+          { "label": "查荣乡", "value": "查荣乡" },
+          { "label": "木拉乡", "value": "木拉乡" }
+        ]
+      },
+      {
+        "label": "拉孜县",
+        "value": "拉孜县",
+        "children": [
+          { "label": "曲下镇", "value": "曲下镇" },
+          { "label": "拉孜镇", "value": "拉孜镇" },
+          { "label": "扎西宗乡", "value": "扎西宗乡" },
+          { "label": "曲玛乡", "value": "曲玛乡" },
+          { "label": "彭措林乡", "value": "彭措林乡" },
+          { "label": "扎西岗乡", "value": "扎西岗乡" },
+          { "label": "柳乡", "value": "柳乡" },
+          { "label": "热萨乡", "value": "热萨乡" },
+          { "label": "锡钦乡", "value": "锡钦乡" },
+          { "label": "芒普乡", "value": "芒普乡" },
+          { "label": "查务乡", "value": "查务乡" }
+        ]
+      },
+      {
+        "label": "昂仁县",
+        "value": "昂仁县",
+        "children": [
+          { "label": "卡嘎镇", "value": "卡嘎镇" },
+          { "label": "桑桑镇", "value": "桑桑镇" },
+          { "label": "达若乡", "value": "达若乡" },
+          { "label": "贡久布乡", "value": "贡久布乡" },
+          { "label": "措迈乡", "value": "措迈乡" },
+          { "label": "雄巴乡", "value": "雄巴乡" },
+          { "label": "查孜乡", "value": "查孜乡" },
+          { "label": "阿木雄乡", "value": "阿木雄乡" },
+          { "label": "如萨乡", "value": "如萨乡" },
+          { "label": "孔隆乡", "value": "孔隆乡" },
+          { "label": "尼果乡", "value": "尼果乡" },
+          { "label": "日吾其乡", "value": "日吾其乡" },
+          { "label": "多白乡", "value": "多白乡" },
+          { "label": "切热乡", "value": "切热乡" },
+          { "label": "秋窝乡", "value": "秋窝乡" },
+          { "label": "达居乡", "value": "达居乡" },
+          { "label": "亚木乡", "value": "亚木乡" }
+        ]
+      },
+      {
+        "label": "谢通门县",
+        "value": "谢通门县",
+        "children": [
+          { "label": "卡嘎镇", "value": "卡嘎镇" },
+          { "label": "达木夏乡", "value": "达木夏乡" },
+          { "label": "查布乡", "value": "查布乡" },
+          { "label": "春哲乡", "value": "春哲乡" },
+          { "label": "则许乡", "value": "则许乡" },
+          { "label": "娘热乡", "value": "娘热乡" },
+          { "label": "措布西乡", "value": "措布西乡" },
+          { "label": "纳当乡", "value": "纳当乡" },
+          { "label": "青都乡", "value": "青都乡" },
+          { "label": "切琼乡", "value": "切琼乡" },
+          { "label": "美巴切勤乡", "value": "美巴切勤乡" },
+          { "label": "列巴乡", "value": "列巴乡" },
+          { "label": "塔丁乡", "value": "塔丁乡" },
+          { "label": "荣玛乡", "value": "荣玛乡" },
+          { "label": "通门乡", "value": "通门乡" },
+          { "label": "达那普乡", "value": "达那普乡" },
+          { "label": "达那答乡", "value": "达那答乡" },
+          { "label": "南木切乡", "value": "南木切乡" },
+          { "label": "仁钦则乡", "value": "仁钦则乡" }
+        ]
+      },
+      {
+        "label": "白朗县",
+        "value": "白朗县",
+        "children": [
+          { "label": "洛江镇", "value": "洛江镇" },
+          { "label": "嘎东镇", "value": "嘎东镇" },
+          { "label": "巴扎乡", "value": "巴扎乡" },
+          { "label": "玛乡", "value": "玛乡" },
+          { "label": "旺丹乡", "value": "旺丹乡" },
+          { "label": "曲奴乡", "value": "曲奴乡" },
+          { "label": "杜琼乡", "value": "杜琼乡" },
+          { "label": "强堆乡", "value": "强堆乡" },
+          { "label": "嘎普乡", "value": "嘎普乡" },
+          { "label": "者下乡", "value": "者下乡" },
+          { "label": "东喜乡", "value": "东喜乡" }
+        ]
+      },
+      {
+        "label": "仁布县",
+        "value": "仁布县",
+        "children": [
+          { "label": "德吉林镇", "value": "德吉林镇" },
+          { "label": "康雄乡", "value": "康雄乡" },
+          { "label": "普松乡", "value": "普松乡" },
+          { "label": "帕当乡", "value": "帕当乡" },
+          { "label": "然巴乡", "value": "然巴乡" },
+          { "label": "查巴乡", "value": "查巴乡" },
+          { "label": "切娃乡", "value": "切娃乡" },
+          { "label": "姆乡", "value": "姆乡" },
+          { "label": "仁布乡", "value": "仁布乡" }
+        ]
+      },
+      {
+        "label": "康马县",
+        "value": "康马县",
+        "children": [
+          { "label": "康马镇", "value": "康马镇" },
+          { "label": "南尼乡", "value": "南尼乡" },
+          { "label": "少岗乡", "value": "少岗乡" },
+          { "label": "康如乡", "value": "康如乡" },
+          { "label": "萨玛达乡", "value": "萨玛达乡" },
+          { "label": "嘎拉乡", "value": "嘎拉乡" },
+          { "label": "涅如堆乡", "value": "涅如堆乡" },
+          { "label": "涅如麦乡", "value": "涅如麦乡" },
+          { "label": "雄章乡", "value": "雄章乡" }
+        ]
+      },
+      {
+        "label": "定结县",
+        "value": "定结县",
+        "children": [
+          { "label": "江嘎镇", "value": "江嘎镇" },
+          { "label": "陈塘镇", "value": "陈塘镇" },
+          { "label": "日屋镇", "value": "日屋镇" },
+          { "label": "确布乡", "value": "确布乡" },
+          { "label": "定结乡", "value": "定结乡" },
+          { "label": "多布扎乡", "value": "多布扎乡" },
+          { "label": "扎西岗乡", "value": "扎西岗乡" },
+          { "label": "琼孜乡", "value": "琼孜乡" },
+          { "label": "萨尔乡", "value": "萨尔乡" },
+          { "label": "郭加乡", "value": "郭加乡" }
+        ]
+      },
+      {
+        "label": "仲巴县",
+        "value": "仲巴县",
+        "children": [
+          { "label": "帕羊镇", "value": "帕羊镇" },
+          { "label": "拉让乡", "value": "拉让乡" },
+          { "label": "琼果乡", "value": "琼果乡" },
+          { "label": "亚热乡", "value": "亚热乡" },
+          { "label": "布多乡", "value": "布多乡" },
+          { "label": "偏吉乡", "value": "偏吉乡" },
+          { "label": "纳久乡", "value": "纳久乡" },
+          { "label": "吉拉乡", "value": "吉拉乡" },
+          { "label": "霍尔巴乡", "value": "霍尔巴乡" },
+          { "label": "隆格尔乡", "value": "隆格尔乡" },
+          { "label": "吉玛乡", "value": "吉玛乡" },
+          { "label": "仁多乡", "value": "仁多乡" },
+          { "label": "帕江乡", "value": "帕江乡" }
+        ]
+      },
+      {
+        "label": "亚东县",
+        "value": "亚东县",
+        "children": [
+          { "label": "下司马镇", "value": "下司马镇" },
+          { "label": "帕里镇", "value": "帕里镇" },
+          { "label": "下亚东乡", "value": "下亚东乡" },
+          { "label": "上亚东乡", "value": "上亚东乡" },
+          { "label": "康布乡", "value": "康布乡" },
+          { "label": "堆纳乡", "value": "堆纳乡" },
+          { "label": "吉汝乡", "value": "吉汝乡" }
+        ]
+      },
+      {
+        "label": "吉隆县",
+        "value": "吉隆县",
+        "children": [
+          { "label": "宗嘎镇", "value": "宗嘎镇" },
+          { "label": "吉隆镇", "value": "吉隆镇" },
+          { "label": "差那乡", "value": "差那乡" },
+          { "label": "折巴乡", "value": "折巴乡" },
+          { "label": "贡当乡", "value": "贡当乡" },
+          { "label": "萨勒乡", "value": "萨勒乡" }
+        ]
+      },
+      {
+        "label": "聂拉木县",
+        "value": "聂拉木县",
+        "children": [
+          { "label": "聂拉木镇", "value": "聂拉木镇" },
+          { "label": "樟木镇", "value": "樟木镇" },
+          { "label": "亚来乡", "value": "亚来乡" },
+          { "label": "锁作乡", "value": "锁作乡" },
+          { "label": "乃龙乡", "value": "乃龙乡" },
+          { "label": "门布乡", "value": "门布乡" },
+          { "label": "波绒乡", "value": "波绒乡" }
+        ]
+      },
+      {
+        "label": "萨嘎县",
+        "value": "萨嘎县",
+        "children": [
+          { "label": "加加镇", "value": "加加镇" },
+          { "label": "昌果乡", "value": "昌果乡" },
+          { "label": "雄如乡", "value": "雄如乡" },
+          { "label": "拉藏乡", "value": "拉藏乡" },
+          { "label": "如角乡", "value": "如角乡" },
+          { "label": "达吉岭乡", "value": "达吉岭乡" },
+          { "label": "旦嘎乡", "value": "旦嘎乡" },
+          { "label": "夏如乡", "value": "夏如乡" }
+        ]
+      },
+      {
+        "label": "岗巴县",
+        "value": "岗巴县",
+        "children": [
+          { "label": "岗巴镇", "value": "岗巴镇" },
+          { "label": "昌龙乡", "value": "昌龙乡" },
+          { "label": "直克乡", "value": "直克乡" },
+          { "label": "孔玛乡", "value": "孔玛乡" },
+          { "label": "龙中乡", "value": "龙中乡" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "昌都市",
+    "value": "昌都市",
+    "children": [
+      {
+        "label": "卡若区",
+        "value": "卡若区",
+        "children": [
+          { "label": "城关镇", "value": "城关镇" },
+          { "label": "俄洛镇", "value": "俄洛镇" },
+          { "label": "卡若镇", "value": "卡若镇" },
+          { "label": "芒达乡", "value": "芒达乡" },
+          { "label": "约巴乡", "value": "约巴乡" },
+          { "label": "妥坝乡", "value": "妥坝乡" },
+          { "label": "拉多乡", "value": "拉多乡" },
+          { "label": "面达乡", "value": "面达乡" },
+          { "label": "嘎玛乡", "value": "嘎玛乡" },
+          { "label": "柴维乡", "value": "柴维乡" },
+          { "label": "日通乡", "value": "日通乡" },
+          { "label": "如意乡", "value": "如意乡" },
+          { "label": "埃西乡", "value": "埃西乡" },
+          { "label": "若巴乡", "value": "若巴乡" },
+          { "label": "沙贡乡", "value": "沙贡乡" }
+        ]
+      },
+      {
+        "label": "江达县",
+        "value": "江达县",
+        "children": [
+          { "label": "江达镇", "value": "江达镇" },
+          { "label": "岗托镇", "value": "岗托镇" },
+          { "label": "卡贡乡", "value": "卡贡乡" },
+          { "label": "岩比乡", "value": "岩比乡" },
+          { "label": "邓柯乡", "value": "邓柯乡" },
+          { "label": "生达乡", "value": "生达乡" },
+          { "label": "娘西乡", "value": "娘西乡" },
+          { "label": "字呷乡", "value": "字呷乡" },
+          { "label": "青泥洞乡", "value": "青泥洞乡" },
+          { "label": "汪布顶乡", "value": "汪布顶乡" },
+          { "label": "德登乡", "value": "德登乡" },
+          { "label": "同普乡", "value": "同普乡" },
+          { "label": "波罗乡", "value": "波罗乡" }
+        ]
+      },
+      {
+        "label": "贡觉县",
+        "value": "贡觉县",
+        "children": [
+          { "label": "莫洛镇", "value": "莫洛镇" },
+          { "label": "相皮乡", "value": "相皮乡" },
+          { "label": "哈加乡", "value": "哈加乡" },
+          { "label": "雄松乡", "value": "雄松乡" },
+          { "label": "拉妥乡", "value": "拉妥乡" },
+          { "label": "阿旺乡", "value": "阿旺乡" },
+          { "label": "木协乡", "value": "木协乡" },
+          { "label": "罗麦乡", "value": "罗麦乡" },
+          { "label": "沙东乡", "value": "沙东乡" },
+          { "label": "克日乡", "value": "克日乡" },
+          { "label": "则巴乡", "value": "则巴乡" },
+          { "label": "敏都乡", "value": "敏都乡" }
+        ]
+      },
+      {
+        "label": "类乌齐县",
+        "value": "类乌齐县",
+        "children": [
+          { "label": "类乌齐镇", "value": "类乌齐镇" },
+          { "label": "桑多镇", "value": "桑多镇" },
+          { "label": "加桑卡乡", "value": "加桑卡乡" },
+          { "label": "长毛岭乡", "value": "长毛岭乡" },
+          { "label": "岗色乡", "value": "岗色乡" },
+          { "label": "吉多乡", "value": "吉多乡" },
+          { "label": "滨达乡", "value": "滨达乡" },
+          { "label": "卡玛多乡", "value": "卡玛多乡" },
+          { "label": "尚卡乡", "value": "尚卡乡" },
+          { "label": "伊日乡", "value": "伊日乡" }
+        ]
+      },
+      {
+        "label": "丁青县",
+        "value": "丁青县",
+        "children": [
+          { "label": "丁青镇", "value": "丁青镇" },
+          { "label": "尺犊镇", "value": "尺犊镇" },
+          { "label": "觉恩乡", "value": "觉恩乡" },
+          { "label": "沙贡乡", "value": "沙贡乡" },
+          { "label": "当堆乡", "value": "当堆乡" },
+          { "label": "桑多乡", "value": "桑多乡" },
+          { "label": "木塔乡", "value": "木塔乡" },
+          { "label": "布塔乡", "value": "布塔乡" },
+          { "label": "巴达乡", "value": "巴达乡" },
+          { "label": "甘岩乡", "value": "甘岩乡" },
+          { "label": "嘎塔乡", "value": "嘎塔乡" },
+          { "label": "色扎乡", "value": "色扎乡" },
+          { "label": "协雄乡", "value": "协雄乡" }
+        ]
+      },
+      {
+        "label": "察雅县",
+        "value": "察雅县",
+        "children": [
+          { "label": "烟多镇", "value": "烟多镇" },
+          { "label": "香堆镇", "value": "香堆镇" },
+          { "label": "吉塘镇", "value": "吉塘镇" },
+          { "label": "宗沙乡", "value": "宗沙乡" },
+          { "label": "卡贡乡", "value": "卡贡乡" },
+          { "label": "荣周乡", "value": "荣周乡" },
+          { "label": "巴日乡", "value": "巴日乡" },
+          { "label": "阿孜乡", "value": "阿孜乡" },
+          { "label": "王卡乡", "value": "王卡乡" },
+          { "label": "新卡乡", "value": "新卡乡" },
+          { "label": "肯通乡", "value": "肯通乡" },
+          { "label": "扩达乡", "value": "扩达乡" },
+          { "label": "察拉乡", "value": "察拉乡" }
+        ]
+      },
+      {
+        "label": "八宿县",
+        "value": "八宿县",
+        "children": [
+          { "label": "白玛镇", "value": "白玛镇" },
+          { "label": "帮达镇", "value": "帮达镇" },
+          { "label": "然乌镇", "value": "然乌镇" },
+          { "label": "同卡镇", "value": "同卡镇" },
+          { "label": "郭庆乡", "value": "郭庆乡" },
+          { "label": "拉根乡", "value": "拉根乡" },
+          { "label": "益庆乡", "value": "益庆乡" },
+          { "label": "吉中乡", "value": "吉中乡" },
+          { "label": "卡瓦白庆乡", "value": "卡瓦白庆乡" },
+          { "label": "吉达乡", "value": "吉达乡" },
+          { "label": "夏里乡", "value": "夏里乡" },
+          { "label": "拥巴乡", "value": "拥巴乡" },
+          { "label": "瓦乡", "value": "瓦乡" },
+          { "label": "林卡乡", "value": "林卡乡" }
+        ]
+      },
+      {
+        "label": "左贡县",
+        "value": "左贡县",
+        "children": [
+          { "label": "旺达镇", "value": "旺达镇" },
+          { "label": "田妥镇", "value": "田妥镇" },
+          { "label": "扎玉镇", "value": "扎玉镇" },
+          { "label": "东坝乡", "value": "东坝乡" },
+          { "label": "仁果乡", "value": "仁果乡" },
+          { "label": "绕金乡", "value": "绕金乡" },
+          { "label": "碧土乡", "value": "碧土乡" },
+          { "label": "美玉乡", "value": "美玉乡" },
+          { "label": "中林卡乡", "value": "中林卡乡" },
+          { "label": "下林卡乡", "value": "下林卡乡" }
+        ]
+      },
+      {
+        "label": "芒康县",
+        "value": "芒康县",
+        "children": [
+          { "label": "嘎托镇", "value": "嘎托镇" },
+          { "label": "如美镇", "value": "如美镇" },
+          { "label": "索多西乡", "value": "索多西乡" },
+          { "label": "莽岭乡", "value": "莽岭乡" },
+          { "label": "宗西乡", "value": "宗西乡" },
+          { "label": "昂多乡", "value": "昂多乡" },
+          { "label": "措瓦乡", "value": "措瓦乡" },
+          { "label": "洛尼乡", "value": "洛尼乡" },
+          { "label": "戈波乡", "value": "戈波乡" },
+          { "label": "帮达乡", "value": "帮达乡" },
+          { "label": "徐中乡", "value": "徐中乡" },
+          { "label": "曲登乡", "value": "曲登乡" },
+          { "label": "木许乡", "value": "木许乡" },
+          { "label": "纳西民族乡", "value": "纳西民族乡" },
+          { "label": "朱巴龙乡", "value": "朱巴龙乡" },
+          { "label": "曲孜卡乡", "value": "曲孜卡乡" }
+        ]
+      },
+      {
+        "label": "洛隆县",
+        "value": "洛隆县",
+        "children": [
+          { "label": "孜托镇", "value": "孜托镇" },
+          { "label": "硕督镇", "value": "硕督镇" },
+          { "label": "康沙镇", "value": "康沙镇" },
+          { "label": "马利镇", "value": "马利镇" },
+          { "label": "达龙乡", "value": "达龙乡" },
+          { "label": "新荣乡", "value": "新荣乡" },
+          { "label": "白达乡", "value": "白达乡" },
+          { "label": "玉西乡", "value": "玉西乡" },
+          { "label": "腊久乡", "value": "腊久乡" },
+          { "label": "俄西乡", "value": "俄西乡" },
+          { "label": "中亦乡", "value": "中亦乡" }
+        ]
+      },
+      {
+        "label": "边坝县",
+        "value": "边坝县",
+        "children": [
+          { "label": "边坝镇", "value": "边坝镇" },
+          { "label": "草卡镇", "value": "草卡镇" },
+          { "label": "沙丁乡", "value": "沙丁乡" },
+          { "label": "金岭乡", "value": "金岭乡" },
+          { "label": "加贡乡", "value": "加贡乡" },
+          { "label": "马武乡", "value": "马武乡" },
+          { "label": "热玉乡", "value": "热玉乡" },
+          { "label": "尼木乡", "value": "尼木乡" },
+          { "label": "马秀乡", "value": "马秀乡" },
+          { "label": "拉孜乡", "value": "拉孜乡" },
+          { "label": "都瓦乡", "value": "都瓦乡" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "林芝市",
+    "value": "林芝市",
+    "children": [
+      {
+        "label": "巴宜区",
+        "value": "巴宜区",
+        "children": [
+          { "label": "白玛岗街道", "value": "白玛岗街道" },
+          { "label": "觉木街道", "value": "觉木街道" },
+          { "label": "林芝镇", "value": "林芝镇" },
+          { "label": "百巴镇", "value": "百巴镇" },
+          { "label": "八一镇", "value": "八一镇" },
+          { "label": "鲁朗镇", "value": "鲁朗镇" },
+          { "label": "更章门巴民族乡", "value": "更章门巴民族乡" },
+          { "label": "布久乡", "value": "布久乡" },
+          { "label": "米瑞乡", "value": "米瑞乡" }
+        ]
+      },
+      {
+        "label": "工布江达县",
+        "value": "工布江达县",
+        "children": [
+          { "label": "工布江达镇", "value": "工布江达镇" },
+          { "label": "金达镇", "value": "金达镇" },
+          { "label": "巴河镇", "value": "巴河镇" },
+          { "label": "朱拉乡", "value": "朱拉乡" },
+          { "label": "错高乡", "value": "错高乡" },
+          { "label": "仲萨乡", "value": "仲萨乡" },
+          { "label": "江达乡", "value": "江达乡" },
+          { "label": "娘蒲乡", "value": "娘蒲乡" },
+          { "label": "加兴乡", "value": "加兴乡" }
+        ]
+      },
+      {
+        "label": "墨脱县",
+        "value": "墨脱县",
+        "children": [
+          { "label": "墨脱镇", "value": "墨脱镇" },
+          { "label": "加热萨乡", "value": "加热萨乡" },
+          { "label": "甘登乡", "value": "甘登乡" },
+          { "label": "达木珞巴民族乡", "value": "达木珞巴民族乡" },
+          { "label": "帮辛乡", "value": "帮辛乡" },
+          { "label": "格当乡", "value": "格当乡" },
+          { "label": "德兴乡", "value": "德兴乡" },
+          { "label": "背崩乡", "value": "背崩乡" }
+        ]
+      },
+      {
+        "label": "波密县",
+        "value": "波密县",
+        "children": [
+          { "label": "扎木镇", "value": "扎木镇" },
+          { "label": "倾多镇", "value": "倾多镇" },
+          { "label": "松宗镇", "value": "松宗镇" },
+          { "label": "易贡乡", "value": "易贡乡" },
+          { "label": "玉普乡", "value": "玉普乡" },
+          { "label": "康玉乡", "value": "康玉乡" },
+          { "label": "多吉乡", "value": "多吉乡" },
+          { "label": "玉许乡", "value": "玉许乡" },
+          { "label": "八盖乡", "value": "八盖乡" },
+          { "label": "古乡", "value": "古乡" }
+        ]
+      },
+      {
+        "label": "察隅县",
+        "value": "察隅县",
+        "children": [
+          { "label": "竹瓦根镇", "value": "竹瓦根镇" },
+          { "label": "上察隅镇", "value": "上察隅镇" },
+          { "label": "下察隅镇", "value": "下察隅镇" },
+          { "label": "察瓦龙乡", "value": "察瓦龙乡" },
+          { "label": "古拉乡", "value": "古拉乡" },
+          { "label": "古玉乡", "value": "古玉乡" }
+        ]
+      },
+      {
+        "label": "朗县",
+        "value": "朗县",
+        "children": [
+          { "label": "朗镇", "value": "朗镇" },
+          { "label": "仲达镇", "value": "仲达镇" },
+          { "label": "洞嘎镇", "value": "洞嘎镇" },
+          { "label": "拉多乡", "value": "拉多乡" },
+          { "label": "金东乡", "value": "金东乡" },
+          { "label": "登木乡", "value": "登木乡" }
+        ]
+      },
+      {
+        "label": "米林市",
+        "value": "米林市",
+        "children": [
+          { "label": "米林镇", "value": "米林镇" },
+          { "label": "派镇", "value": "派镇" },
+          { "label": "卧龙镇", "value": "卧龙镇" },
+          { "label": "丹娘乡", "value": "丹娘乡" },
+          { "label": "南伊珞巴民族乡", "value": "南伊珞巴民族乡" },
+          { "label": "扎西绕登乡", "value": "扎西绕登乡" },
+          { "label": "里龙乡", "value": "里龙乡" },
+          { "label": "羌纳乡", "value": "羌纳乡" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "山南市",
+    "value": "山南市",
+    "children": [
+      {
+        "label": "乃东区",
+        "value": "乃东区",
+        "children": [
+          { "label": "泽当街道", "value": "泽当街道" },
+          { "label": "乃东街道", "value": "乃东街道" },
+          { "label": "结莎街道", "value": "结莎街道" },
+          { "label": "昌珠镇", "value": "昌珠镇" },
+          { "label": "亚堆乡", "value": "亚堆乡" },
+          { "label": "索珠乡", "value": "索珠乡" },
+          { "label": "多颇章乡", "value": "多颇章乡" },
+          { "label": "结巴乡", "value": "结巴乡" },
+          { "label": "颇章乡", "value": "颇章乡" }
+        ]
+      },
+      {
+        "label": "扎囊县",
+        "value": "扎囊县",
+        "children": [
+          { "label": "扎塘镇", "value": "扎塘镇" },
+          { "label": "桑耶镇", "value": "桑耶镇" },
+          { "label": "扎其乡", "value": "扎其乡" },
+          { "label": "阿扎乡", "value": "阿扎乡" },
+          { "label": "吉汝乡", "value": "吉汝乡" }
+        ]
+      },
+      {
+        "label": "贡嘎县",
+        "value": "贡嘎县",
+        "children": [
+          { "label": "吉雄镇", "value": "吉雄镇" },
+          { "label": "甲竹林镇", "value": "甲竹林镇" },
+          { "label": "杰德秀镇", "value": "杰德秀镇" },
+          { "label": "岗堆镇", "value": "岗堆镇" },
+          { "label": "江塘镇", "value": "江塘镇" },
+          { "label": "朗杰学乡", "value": "朗杰学乡" },
+          { "label": "昌果乡", "value": "昌果乡" },
+          { "label": "东拉乡", "value": "东拉乡" },
+          { "label": "克西乡", "value": "克西乡" }
+        ]
+      },
+      {
+        "label": "桑日县",
+        "value": "桑日县",
+        "children": [
+          { "label": "桑日镇", "value": "桑日镇" },
+          { "label": "增期乡", "value": "增期乡" },
+          { "label": "白堆乡", "value": "白堆乡" },
+          { "label": "绒乡", "value": "绒乡" }
+        ]
+      },
+      {
+        "label": "琼结县",
+        "value": "琼结县",
+        "children": [
+          { "label": "琼结镇", "value": "琼结镇" },
+          { "label": "加麻乡", "value": "加麻乡" },
+          { "label": "下水乡", "value": "下水乡" },
+          { "label": "拉玉乡", "value": "拉玉乡" }
+        ]
+      },
+      {
+        "label": "曲松县",
+        "value": "曲松县",
+        "children": [
+          { "label": "曲松镇", "value": "曲松镇" },
+          { "label": "罗布沙镇", "value": "罗布沙镇" },
+          { "label": "下江乡", "value": "下江乡" },
+          { "label": "邱多江乡", "value": "邱多江乡" },
+          { "label": "堆随乡", "value": "堆随乡" }
+        ]
+      },
+      {
+        "label": "措美县",
+        "value": "措美县",
+        "children": [
+          { "label": "措美镇", "value": "措美镇" },
+          { "label": "哲古镇", "value": "哲古镇" },
+          { "label": "乃西乡", "value": "乃西乡" },
+          { "label": "古堆乡", "value": "古堆乡" }
+        ]
+      },
+      {
+        "label": "洛扎县",
+        "value": "洛扎县",
+        "children": [
+          { "label": "洛扎镇", "value": "洛扎镇" },
+          { "label": "拉康镇", "value": "拉康镇" },
+          { "label": "扎日乡", "value": "扎日乡" },
+          { "label": "色乡", "value": "色乡" },
+          { "label": "生格乡", "value": "生格乡" },
+          { "label": "边巴乡", "value": "边巴乡" },
+          { "label": "拉郊乡", "value": "拉郊乡" }
+        ]
+      },
+      {
+        "label": "加查县",
+        "value": "加查县",
+        "children": [
+          { "label": "加查镇", "value": "加查镇" },
+          { "label": "安绕镇", "value": "安绕镇" },
+          { "label": "拉绥乡", "value": "拉绥乡" },
+          { "label": "崔久乡", "value": "崔久乡" },
+          { "label": "坝乡", "value": "坝乡" },
+          { "label": "冷达乡", "value": "冷达乡" },
+          { "label": "洛林乡", "value": "洛林乡" }
+        ]
+      },
+      {
+        "label": "隆子县",
+        "value": "隆子县",
+        "children": [
+          { "label": "隆子镇", "value": "隆子镇" },
+          { "label": "日当镇", "value": "日当镇" },
+          { "label": "列麦乡", "value": "列麦乡" },
+          { "label": "热荣乡", "value": "热荣乡" },
+          { "label": "三安曲林乡", "value": "三安曲林乡" },
+          { "label": "准巴乡", "value": "准巴乡" },
+          { "label": "雪萨乡", "value": "雪萨乡" },
+          { "label": "扎日乡", "value": "扎日乡" },
+          { "label": "玉麦乡", "value": "玉麦乡" },
+          { "label": "加玉乡", "value": "加玉乡" },
+          { "label": "斗玉珞巴民族乡", "value": "斗玉珞巴民族乡" }
+        ]
+      },
+      {
+        "label": "浪卡子县",
+        "value": "浪卡子县",
+        "children": [
+          { "label": "浪卡子镇", "value": "浪卡子镇" },
+          { "label": "打隆镇", "value": "打隆镇" },
+          { "label": "张达乡", "value": "张达乡" },
+          { "label": "伦布雪乡", "value": "伦布雪乡" },
+          { "label": "多却乡", "value": "多却乡" },
+          { "label": "普玛江塘乡", "value": "普玛江塘乡" },
+          { "label": "阿扎乡", "value": "阿扎乡" },
+          { "label": "卡龙乡", "value": "卡龙乡" },
+          { "label": "白地乡", "value": "白地乡" },
+          { "label": "卡热乡", "value": "卡热乡" }
+        ]
+      },
+      {
+        "label": "错那市",
+        "value": "错那市",
+        "children": [
+          { "label": "错那镇", "value": "错那镇" },
+          { "label": "卡达乡", "value": "卡达乡" },
+          { "label": "觉拉乡", "value": "觉拉乡" },
+          { "label": "浪坡乡", "value": "浪坡乡" },
+          { "label": "曲卓木乡", "value": "曲卓木乡" },
+          { "label": "库局乡", "value": "库局乡" },
+          { "label": "麻麻门巴民族乡", "value": "麻麻门巴民族乡" },
+          { "label": "贡日门巴民族乡", "value": "贡日门巴民族乡" },
+          { "label": "吉巴门巴民族乡", "value": "吉巴门巴民族乡" },
+          { "label": "勒门巴民族乡", "value": "勒门巴民族乡" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "那曲市",
+    "value": "那曲市",
+    "children": [
+      {
+        "label": "色尼区",
+        "value": "色尼区",
+        "children": [
+          { "label": "那曲镇", "value": "那曲镇" },
+          { "label": "罗玛镇", "value": "罗玛镇" },
+          { "label": "古露镇", "value": "古露镇" },
+          { "label": "达萨乡", "value": "达萨乡" },
+          { "label": "油恰乡", "value": "油恰乡" },
+          { "label": "香茂乡", "value": "香茂乡" },
+          { "label": "那玛切乡", "value": "那玛切乡" },
+          { "label": "达前乡", "value": "达前乡" },
+          { "label": "洛麦乡", "value": "洛麦乡" },
+          { "label": "孔玛乡", "value": "孔玛乡" },
+          { "label": "尼玛乡", "value": "尼玛乡" },
+          { "label": "色雄乡", "value": "色雄乡" }
+        ]
+      },
+      {
+        "label": "嘉黎县",
+        "value": "嘉黎县",
+        "children": [
+          { "label": "阿扎镇", "value": "阿扎镇" },
+          { "label": "嘉黎镇", "value": "嘉黎镇" },
+          { "label": "尼屋乡", "value": "尼屋乡" },
+          { "label": "藏比乡", "value": "藏比乡" },
+          { "label": "措多乡", "value": "措多乡" },
+          { "label": "夏玛乡", "value": "夏玛乡" },
+          { "label": "林堤乡", "value": "林堤乡" },
+          { "label": "麦地卡乡", "value": "麦地卡乡" },
+          { "label": "绒多乡", "value": "绒多乡" },
+          { "label": "鸽群乡", "value": "鸽群乡" }
+        ]
+      },
+      {
+        "label": "比如县",
+        "value": "比如县",
+        "children": [
+          { "label": "比如镇", "value": "比如镇" },
+          { "label": "夏曲镇", "value": "夏曲镇" },
+          { "label": "白嘎乡", "value": "白嘎乡" },
+          { "label": "达塘乡", "value": "达塘乡" },
+          { "label": "恰则乡", "value": "恰则乡" },
+          { "label": "扎拉乡", "value": "扎拉乡" },
+          { "label": "羊秀乡", "value": "羊秀乡" },
+          { "label": "香曲乡", "value": "香曲乡" },
+          { "label": "良曲乡", "value": "良曲乡" },
+          { "label": "茶曲乡", "value": "茶曲乡" }
+        ]
+      },
+      {
+        "label": "聂荣县",
+        "value": "聂荣县",
+        "children": [
+          { "label": "聂荣镇", "value": "聂荣镇" },
+          { "label": "尼玛乡", "value": "尼玛乡" },
+          { "label": "色庆乡", "value": "色庆乡" },
+          { "label": "桑荣乡", "value": "桑荣乡" },
+          { "label": "下曲乡", "value": "下曲乡" },
+          { "label": "白雄乡", "value": "白雄乡" },
+          { "label": "索雄乡", "value": "索雄乡" },
+          { "label": "当木江乡", "value": "当木江乡" },
+          { "label": "查当乡", "value": "查当乡" },
+          { "label": "永曲乡", "value": "永曲乡" }
+        ]
+      },
+      {
+        "label": "安多县",
+        "value": "安多县",
+        "children": [
+          { "label": "帕那镇", "value": "帕那镇" },
+          { "label": "强玛镇", "value": "强玛镇" },
+          { "label": "扎仁镇", "value": "扎仁镇" },
+          { "label": "雁石坪镇", "value": "雁石坪镇" },
+          { "label": "多玛乡", "value": "多玛乡" },
+          { "label": "玛曲乡", "value": "玛曲乡" },
+          { "label": "滩堆乡", "value": "滩堆乡" },
+          { "label": "帮爱乡", "value": "帮爱乡" },
+          { "label": "玛荣乡", "value": "玛荣乡" },
+          { "label": "扎曲乡", "value": "扎曲乡" },
+          { "label": "色务乡", "value": "色务乡" },
+          { "label": "措玛乡", "value": "措玛乡" },
+          { "label": "岗尼乡", "value": "岗尼乡" }
+        ]
+      },
+      {
+        "label": "申扎县",
+        "value": "申扎县",
+        "children": [
+          { "label": "申扎镇", "value": "申扎镇" },
+          { "label": "雄梅镇", "value": "雄梅镇" },
+          { "label": "下过乡", "value": "下过乡" },
+          { "label": "卡乡", "value": "卡乡" },
+          { "label": "巴扎乡", "value": "巴扎乡" },
+          { "label": "塔尔玛乡", "value": "塔尔玛乡" },
+          { "label": "买巴乡", "value": "买巴乡" },
+          { "label": "马跃乡", "value": "马跃乡" }
+        ]
+      },
+      {
+        "label": "索县",
+        "value": "索县",
+        "children": [
+          { "label": "亚拉镇", "value": "亚拉镇" },
+          { "label": "荣布镇", "value": "荣布镇" },
+          { "label": "若达乡", "value": "若达乡" },
+          { "label": "加勤乡", "value": "加勤乡" },
+          { "label": "赤多乡", "value": "赤多乡" },
+          { "label": "西昌乡", "value": "西昌乡" },
+          { "label": "江达乡", "value": "江达乡" },
+          { "label": "热瓦乡", "value": "热瓦乡" },
+          { "label": "嘎美乡", "value": "嘎美乡" },
+          { "label": "嘎木乡", "value": "嘎木乡" }
+        ]
+      },
+      {
+        "label": "班戈县",
+        "value": "班戈县",
+        "children": [
+          { "label": "普保镇", "value": "普保镇" },
+          { "label": "北拉镇", "value": "北拉镇" },
+          { "label": "德庆镇", "value": "德庆镇" },
+          { "label": "佳琼镇", "value": "佳琼镇" },
+          { "label": "尼玛乡", "value": "尼玛乡" },
+          { "label": "保吉乡", "value": "保吉乡" },
+          { "label": "青龙乡", "value": "青龙乡" },
+          { "label": "马前乡", "value": "马前乡" },
+          { "label": "门当乡", "value": "门当乡" },
+          { "label": "新吉乡", "value": "新吉乡" }
+        ]
+      },
+      {
+        "label": "巴青县",
+        "value": "巴青县",
+        "children": [
+          { "label": "拉西镇", "value": "拉西镇" },
+          { "label": "杂色镇", "value": "杂色镇" },
+          { "label": "雅安镇", "value": "雅安镇" },
+          { "label": "江绵乡", "value": "江绵乡" },
+          { "label": "玛如乡", "value": "玛如乡" },
+          { "label": "阿秀乡", "value": "阿秀乡" },
+          { "label": "贡日乡", "value": "贡日乡" },
+          { "label": "岗切乡", "value": "岗切乡" },
+          { "label": "巴青乡", "value": "巴青乡" },
+          { "label": "本塔乡", "value": "本塔乡" }
+        ]
+      },
+      {
+        "label": "尼玛县",
+        "value": "尼玛县",
+        "children": [
+          { "label": "尼玛镇", "value": "尼玛镇" },
+          { "label": "卓尼乡", "value": "卓尼乡" },
+          { "label": "达果乡", "value": "达果乡" },
+          { "label": "阿索乡", "value": "阿索乡" },
+          { "label": "荣玛乡", "value": "荣玛乡" },
+          { "label": "中仓乡", "value": "中仓乡" },
+          { "label": "来多乡", "value": "来多乡" },
+          { "label": "申亚乡", "value": "申亚乡" },
+          { "label": "卓瓦乡", "value": "卓瓦乡" },
+          { "label": "俄久乡", "value": "俄久乡" },
+          { "label": "文部乡", "value": "文部乡" },
+          { "label": "甲谷乡", "value": "甲谷乡" },
+          { "label": "军仓乡", "value": "军仓乡" },
+          { "label": "吉瓦乡", "value": "吉瓦乡" }
+        ]
+      },
+      {
+        "label": "双湖县",
+        "value": "双湖县",
+        "children": [
+          { "label": "措折罗玛镇", "value": "措折罗玛镇" },
+          { "label": "协德乡", "value": "协德乡" },
+          { "label": "雅曲乡", "value": "雅曲乡" },
+          { "label": "嘎措乡", "value": "嘎措乡" },
+          { "label": "措折强玛乡", "value": "措折强玛乡" },
+          { "label": "多玛乡", "value": "多玛乡" },
+          { "label": "巴岭乡", "value": "巴岭乡" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "阿里地区",
+    "value": "阿里地区",
+    "children": [
+      {
+        "label": "普兰县",
+        "value": "普兰县",
+        "children": [
+          { "label": "普兰镇", "value": "普兰镇" },
+          { "label": "巴嘎乡", "value": "巴嘎乡" },
+          { "label": "霍尔乡", "value": "霍尔乡" }
+        ]
+      },
+      {
+        "label": "札达县",
+        "value": "札达县",
+        "children": [
+          { "label": "托林镇", "value": "托林镇" },
+          { "label": "萨让乡", "value": "萨让乡" },
+          { "label": "达巴乡", "value": "达巴乡" },
+          { "label": "底雅乡", "value": "底雅乡" },
+          { "label": "香孜乡", "value": "香孜乡" },
+          { "label": "曲松乡", "value": "曲松乡" },
+          { "label": "楚鲁松杰乡", "value": "楚鲁松杰乡" }
+        ]
+      },
+      {
+        "label": "噶尔县",
+        "value": "噶尔县",
+        "children": [
+          { "label": "狮泉河镇", "value": "狮泉河镇" },
+          { "label": "昆莎乡", "value": "昆莎乡" },
+          { "label": "左左乡", "value": "左左乡" },
+          { "label": "门士乡", "value": "门士乡" },
+          { "label": "扎西岗乡", "value": "扎西岗乡" }
+        ]
+      },
+      {
+        "label": "日土县",
+        "value": "日土县",
+        "children": [
+          { "label": "日土镇", "value": "日土镇" },
+          { "label": "热帮乡", "value": "热帮乡" },
+          { "label": "日松乡", "value": "日松乡" },
+          { "label": "东汝乡", "value": "东汝乡" },
+          { "label": "多玛乡", "value": "多玛乡" }
+        ]
+      },
+      {
+        "label": "革吉县",
+        "value": "革吉县",
+        "children": [
+          { "label": "革吉镇", "value": "革吉镇" },
+          { "label": "雄巴乡", "value": "雄巴乡" },
+          { "label": "亚热乡", "value": "亚热乡" },
+          { "label": "盐湖乡", "value": "盐湖乡" },
+          { "label": "文布当桑乡", "value": "文布当桑乡" }
+        ]
+      },
+      {
+        "label": "改则县",
+        "value": "改则县",
+        "children": [
+          { "label": "改则镇", "value": "改则镇" },
+          { "label": "物玛乡", "value": "物玛乡" },
+          { "label": "先遣乡", "value": "先遣乡" },
+          { "label": "麻米乡", "value": "麻米乡" },
+          { "label": "洞措乡", "value": "洞措乡" },
+          { "label": "古姆乡", "value": "古姆乡" },
+          { "label": "察布乡", "value": "察布乡" }
+        ]
+      },
+      {
+        "label": "措勤县",
+        "value": "措勤县",
+        "children": [
+          { "label": "措勤镇", "value": "措勤镇" },
+          { "label": "磁石乡", "value": "磁石乡" },
+          { "label": "曲洛乡", "value": "曲洛乡" },
+          { "label": "江让乡", "value": "江让乡" },
+          { "label": "达雄乡", "value": "达雄乡" }
+        ]
+      }
+    ]
+  }
+]

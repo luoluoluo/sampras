@@ -1,0 +1,82 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// 文件
+model File {
+  id        String   @id @db.VarChar(80)
+  path      String   @db.VarChar(200)
+  name      String?  @db.VarChar(200)
+  size      Int? // 文件大小
+  type      String? // 文件类型
+  createdAt DateTime @default(now())
+}
+
+model Staff {
+  id         String      @id @db.VarChar(80)
+  code       String      @unique @db.VarChar(80)
+  name       String      @db.VarChar(80)
+  password   String      @db.VarChar(80)
+  staffRoles StaffRole[]
+  createdAt  DateTime    @default(now())
+}
+
+model StaffRole {
+  id        String   @id @db.VarChar(80)
+  staff     Staff    @relation(fields: [staffId], references: [id])
+  staffId   String   @db.VarChar(80)
+  roleId    String   @db.VarChar(80)
+  role      Role     @relation(fields: [roleId], references: [id])
+  createdAt DateTime @default(now())
+}
+
+model Role {
+  id              String           @id @db.VarChar(80)
+  name            String           @db.VarChar(80)
+  staffRoles      StaffRole[]
+  rolePermissions RolePermission[]
+  createdAt       DateTime         @default(now())
+}
+
+model RolePermission {
+  id         String   @id @db.VarChar(80)
+  role       Role     @relation(fields: [roleId], references: [id])
+  roleId     String   @db.VarChar(80)
+  permission String   @db.VarChar(80)
+  createdAt  DateTime @default(now())
+}
+
+model Clue {
+  id         String   @id @db.VarChar(80)
+  name       String   @db.VarChar(80)
+  company    String   @db.VarChar(80)
+  phone      String   @db.VarChar(80)
+  email      String   @db.VarChar(80)
+  message    String   @db.VarChar(80)
+  followedAt DateTime @default(now())
+  createdAt  DateTime @default(now())
+}
+
+model Client {
+  id          String   @id @db.VarChar(80)
+  name        String   @db.VarChar(80)
+  logo        String   @db.VarChar(80)
+  description String   @db.VarChar(200)
+  createdAt   DateTime @default(now())
+}
+
+model Partner {
+  id          String   @id @db.VarChar(80)
+  name        String   @db.VarChar(80)
+  logo        String   @db.VarChar(80)
+  description String   @db.VarChar(200)
+  createdAt   DateTime @default(now())
+}
